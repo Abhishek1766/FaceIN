@@ -1,0 +1,111 @@
+Minimum System Requirements:
+
+Operating System:
+
+Windows 10 or later
+macOS 10.14 (Mojave) or later
+Linux (Ubuntu 18.04 or later)
+
+Processor:
+
+Dual-core processor (Intel Core i3 or equivalent)
+
+RAM:
+
+4 GB RAM
+
+Storage:
+
+At least 500 MB of free disk space for the application and dependencies
+Additional space for storing images (depends on the number of users)
+
+Graphics:
+
+Integrated graphics (Intel HD Graphics or equivalent)
+
+Camera:
+
+A webcam or external camera compatible with the system
+
+Software:
+
+Python 3.6 or later
+OpenCV (version 4.5 or later)
+MySQL Server (version 5.7 or later)
+Tkinter (comes pre-installed with Python)
+CustomTkinter (latest version)
+
+
+Recommended System Requirements
+
+Operating System:
+
+Windows 10 or later
+macOS 11 (Big Sur) or later
+Linux (Ubuntu 20.04 or later)
+
+Processor:
+
+Quad-core processor (Intel Core i5 or equivalent)
+
+RAM:
+
+8 GB RAM or more
+
+Storage:
+
+At least 1 GB of free disk space for the application and dependencies
+Additional space for storing images (depends on the number of users)
+
+Graphics:
+
+Dedicated graphics card (NVIDIA GeForce GTX 1050 or equivalent) for better performance in image processing
+
+Camera:
+
+A high-quality webcam or external camera with at least 720p resolution
+
+Software:
+
+Python 3.8 or later
+OpenCV (version 4.5 or later)
+MySQL Server (version 5.7 or later)
+Tkinter (comes pre-installed with Python)
+CustomTkinter (latest version)
+
+Maximum System Requirements
+Operating System:
+
+Windows 11
+macOS 12 (Monterey) or later
+Linux (latest stable version)
+
+Processor:
+
+Multi-core processor (Intel Core i7 or equivalent)
+
+RAM:
+
+16 GB RAM or more
+
+Storage:
+
+At least 2 GB of free disk space for the application and dependencies
+Additional space for storing images (depends on the number of users)
+
+Graphics:
+
+High-end dedicated graphics card (NVIDIA GeForce RTX 2060 or equivalent) for advanced image processing and machine learning tasks
+
+Camera:
+
+A high-definition camera with at least 1080p resolution
+
+Software:
+
+Python 3.9 or later
+OpenCV (latest stable version)
+MySQL Server (latest stable version)
+Tkinter (comes pre-installed with Python)
+CustomTkinter (latest version)
+Pillow (latest version)

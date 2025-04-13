@@ -1,0 +1,40 @@
+Required Libraries and Recommended Versions
+
+Python:
+
+Version: 3.8 or later (3.9 or 3.10 is recommended for better compatibility with libraries)
+
+OpenCV:
+
+Library: opencv-python
+Version: 4.5.3 or later
+Installation: pip install opencv-python==4.5.3.20210927
+
+NumPy:
+
+Library: numpy
+Version: 1.19.5 or later
+Installation: pip install numpy==1.19.5
+
+MySQL Connector:
+
+Library: mysql-connector-python
+Version: 8.0.26 or later
+Installation: pip install mysql-connector-python==8.0.26
+
+Pillow (for image processing):
+
+Library: Pillow
+Version: 8.4.0 or later
+Installation: pip install Pillow==8.4.0
+
+CustomTkinter:
+
+Library: customtkinter
+Version: 2.0.0 or later
+Installation: pip install customtkinter==2.0.0
+
+Tkinter:
+
+Library: tkinter (comes pre-installed with Python)
+Version: Included with Python installation (no separate installation required)
