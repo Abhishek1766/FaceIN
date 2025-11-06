@@ -1,4 +1,4 @@
-# 👤 FaceIN – Facial Recognition Attendance System
+# 👤 FaceIN – Facial Recognition System
 
 **FaceIN** is a modern, GUI-based facial recognition system for user management and attendance tracking. Built with Python, OpenCV, and MySQL, it offers a seamless way to register users, capture facial data, and automate attendance logging.
 
@@ -29,7 +29,10 @@
 
 ## 📸 Screenshots
 
-> _Add screenshots here to showcase the GUI and features._
+![home](https://github.com/user-attachments/assets/aa6a5e04-d050-4084-afc7-43498782257a)
+
+![dbconf](https://github.com/user-attachments/assets/4ddf6733-f59a-434c-beba-7ac5d18fc4b6)
+
 
 ---
 
@@ -102,9 +105,3 @@ This project is licensed under the [MIT License](LICENSE).
 **Abhishek1766**  
 🔗 [GitHub Profile](https://github.com/Abhishek1766)
 
-
-# Screenshots
-
-![home](https://github.com/user-attachments/assets/aa6a5e04-d050-4084-afc7-43498782257a)
-
-![dbconf](https://github.com/user-attachments/assets/4ddf6733-f59a-434c-beba-7ac5d18fc4b6)
